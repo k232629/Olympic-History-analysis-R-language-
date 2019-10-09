@@ -1,9 +1,10 @@
 # Olympic-History-analysis-R-language-
 
 120 years of Olympic History: athletes and results 
+The dataset have to be downloaded separately as its size did not fit on Git Hub 
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
-The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). The columns are:
+The file  athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). The columns are:
 
 ID - Unique number for each athlete
 Name - Athlete's name
